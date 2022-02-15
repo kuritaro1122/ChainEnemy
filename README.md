@@ -1,4 +1,5 @@
 # ChainEnemy
+* You need EntityActionCon.
 
 # Static Method
 
